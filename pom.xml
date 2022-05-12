@@ -33,7 +33,7 @@
 <connection>scm:git:git@github.com:srikanthhubli/javawebservices.git</connection>
 <developerConnection>scm:git:git@github.com:srikanthhubli/javawebservices.git</developerConnection>
 <url>git@github.com:srikanthhubli/javawebservices.git</url>
-<tag>v0.0.1</tag>
+<tag>v0.0.2</tag>
 </scm>
 	
 	<dependencies>
